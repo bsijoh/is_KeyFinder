@@ -18,3 +18,11 @@ KeyFinder copyright 2011-2013 Ibrahim Sha'ath
 # About this fork:
 
 This fork contains primarily changes, to build a static binary for current Linux systems.
+
+# Related Repos:
+- [libKeyFinder](https://github.com/bsijoh/libKeyFinder) (also forked and contains small changes for static build)
+- [KeyFinder_static_build](https://github.com/bsijoh/KeyFinder_static_build) containerized static build of KeyFinder
+
+# Todos:
+- Remove Code for version check
+- evaluate use of newer ffmpeg library
