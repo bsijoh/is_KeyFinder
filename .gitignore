@@ -1,0 +1,13 @@
+.DS_Store
+is_KeyFinder.pro.user*
+*.autosave
+ui/
+moc_*
+qrc_resources.cpp
+*.o
+*~
+*.qm
+KeyFinder
+Makefile
+*.ts
+!is_keyfinder_en_GB.ts
